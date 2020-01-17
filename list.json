@@ -1,7 +1,7 @@
 [
   {
     "name": "1ShoppingCart",
-    "slug": "1-shopping-cart",
+    "slug": "1shoppingcart",
     "url": "http://www.1shoppingcart.com/"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "name": "ActiveCampaign",
-    "slug": "active-campaign",
+    "slug": "activecampaign",
     "url": "https://www.activecampaign.com/"
   },
   {
     "name": "ActiveTrail",
-    "slug": "active-trail",
+    "slug": "activetrail",
     "url": "https://www.activetrail.com/"
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "name": "BeMail",
-    "slug": "be-mail",
+    "slug": "bemail",
     "url": "https://www.bemail.it/"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "name": "BlackBox",
-    "slug": "black-box",
+    "slug": "blackbox",
     "url": "https://www.blackbox.email/"
   },
   {
@@ -151,12 +151,12 @@
   },
   {
     "name": "BlueHornet – Mapp",
-    "slug": "blue-hornet-mapp",
+    "slug": "bluehornet-mapp",
     "url": "https://mapp.com/bluehornet/"
   },
   {
     "name": "BombBomb",
-    "slug": "bomb-bomb",
+    "slug": "bombbomb",
     "url": "https://bombbomb.com/"
   },
   {
@@ -166,12 +166,12 @@
   },
   {
     "name": "BrightSpeed",
-    "slug": "bright-speed",
+    "slug": "brightspeed",
     "url": "https://brightspeed.com/"
   },
   {
     "name": "CakeMail",
-    "slug": "cake-mail",
+    "slug": "cakemail",
     "url": "https://www.cakemail.com/"
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "name": "Certainsource eWayDirect",
-    "slug": "certainsource-e-way-direct",
+    "slug": "certainsource-ewaydirect",
     "url": "https://www.certainsource.com"
   },
   {
@@ -211,22 +211,22 @@
   },
   {
     "name": "CleverReach",
-    "slug": "clever-reach",
+    "slug": "cleverreach",
     "url": "https://www.cleverreach.com/"
   },
   {
     "name": "ClickDimensions",
-    "slug": "click-dimensions",
+    "slug": "clickdimensions",
     "url": "https://clickdimensions.com/"
   },
   {
     "name": "ClickFunnels",
-    "slug": "click-funnels",
+    "slug": "clickfunnels",
     "url": "https://www.clickfunnels.com/"
   },
   {
     "name": "ClickMail",
-    "slug": "click-mail",
+    "slug": "clickmail",
     "url": "http://clickmail.com/"
   },
   {
@@ -291,12 +291,12 @@
   },
   {
     "name": "DirectIQ",
-    "slug": "direct-iq",
+    "slug": "directiq",
     "url": "https://www.directiq.com/"
   },
   {
     "name": "DoctorSender",
-    "slug": "doctor-sender",
+    "slug": "doctorsender",
     "url": "https://www.doctorsender.com/en/"
   },
   {
@@ -336,17 +336,17 @@
   },
   {
     "name": "eBooster",
-    "slug": "e-booster",
+    "slug": "ebooster",
     "url": "http://www.ebooster.dk/"
   },
   {
     "name": "eCampaignPro",
-    "slug": "e-campaign-pro",
+    "slug": "ecampaignpro",
     "url": "https://www.ecampaignpros.com/"
   },
   {
     "name": "eConnect email",
-    "slug": "e-connect-email",
+    "slug": "econnect-email",
     "url": "http://econnectemail.com/"
   },
   {
@@ -356,7 +356,7 @@
   },
   {
     "name": "eGENTIC",
-    "slug": "e-gentic",
+    "slug": "egentic",
     "url": "https://www.egentic.com/"
   },
   {
@@ -381,17 +381,17 @@
   },
   {
     "name": "EmailOctopus",
-    "slug": "email-octopus",
+    "slug": "emailoctopus",
     "url": "https://emailoctopus.com/"
   },
   {
     "name": "eMailPlatform",
-    "slug": "e-mail-platform",
+    "slug": "emailplatform",
     "url": "https://emailplatform.com/"
   },
   {
     "name": "eMarketeer",
-    "slug": "e-marketeer",
+    "slug": "emarketeer",
     "url": "https://www.emarketeer.com/"
   },
   {
@@ -436,12 +436,12 @@
   },
   {
     "name": "eSputnik",
-    "slug": "e-sputnik",
+    "slug": "esputnik",
     "url": "https://esputnik.com/en"
   },
   {
     "name": "eTelligent",
-    "slug": "e-telligent",
+    "slug": "etelligent",
     "url": "https://www.etelligent.co.uk/"
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "name": "ExpertSender",
-    "slug": "expert-sender",
+    "slug": "expertsender",
     "url": "https://expertsender.com/"
   },
   {
@@ -471,12 +471,12 @@
   },
   {
     "name": "EzyMsg",
-    "slug": "ezy-msg",
+    "slug": "ezymsg",
     "url": "https://www.ezymsg.com/"
   },
   {
     "name": "FireDrum Email Marketing",
-    "slug": "fire-drum-email-marketing",
+    "slug": "firedrum-email-marketing",
     "url": "https://firedrumemailmarketing.com/"
   },
   {
@@ -511,12 +511,12 @@
   },
   {
     "name": "GTC TeleCommunication",
-    "slug": "gtc-tele-communication",
+    "slug": "gtc-telecommunication",
     "url": "https://gtc.de/"
   },
   {
     "name": "GetResponse",
-    "slug": "get-response",
+    "slug": "getresponse",
     "url": "https://getresponse.com/"
   },
   {
@@ -571,7 +571,7 @@
   },
   {
     "name": "HubSpot",
-    "slug": "hub-spot",
+    "slug": "hubspot",
     "url": "https://www.hubspot.com/"
   },
   {
@@ -581,12 +581,12 @@
   },
   {
     "name": "iContact",
-    "slug": "i-contact",
+    "slug": "icontact",
     "url": "https://www.icontact.com/"
   },
   {
     "name": "iCubesPro",
-    "slug": "i-cubes-pro",
+    "slug": "icubespro",
     "url": "https://www.icubespro.com/"
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "name": "InboxRoad",
-    "slug": "inbox-road",
+    "slug": "inboxroad",
     "url": "https://www.inboxroad.com/"
   },
   {
@@ -621,7 +621,7 @@
   },
   {
     "name": "InTouch CRM",
-    "slug": "in-touch-crm",
+    "slug": "intouch-crm",
     "url": "https://www.intouchcrm.com/"
   },
   {
@@ -631,7 +631,7 @@
   },
   {
     "name": "iPost",
-    "slug": "i-post",
+    "slug": "ipost",
     "url": "https://www.ipost.com/"
   },
   {
@@ -641,12 +641,12 @@
   },
   {
     "name": "itracMarketer",
-    "slug": "itrac-marketer",
+    "slug": "itracmarketer",
     "url": "https://itracmarketer.com/"
   },
   {
     "name": "JangoMail",
-    "slug": "jango-mail",
+    "slug": "jangomail",
     "url": "https://jangomail.com/"
   },
   {
@@ -671,7 +671,7 @@
   },
   {
     "name": "LeadBI",
-    "slug": "lead-bi",
+    "slug": "leadbi",
     "url": "https://www.leadbi.com/"
   },
   {
@@ -701,7 +701,7 @@
   },
   {
     "name": "MagNews",
-    "slug": "mag-news",
+    "slug": "magnews",
     "url": "https://www.magnews.com/"
   },
   {
@@ -716,37 +716,37 @@
   },
   {
     "name": "MailAgent",
-    "slug": "mail-agent",
+    "slug": "mailagent",
     "url": "https://www.mailagent.co.uk/"
   },
   {
     "name": "MailChimp",
-    "slug": "mail-chimp",
+    "slug": "mailchimp",
     "url": "https://mailchimp.com/"
   },
   {
     "name": "MailKitchen",
-    "slug": "mail-kitchen",
+    "slug": "mailkitchen",
     "url": "https://www.mailkitchen.com/"
   },
   {
     "name": "MailPanda",
-    "slug": "mail-panda",
+    "slug": "mailpanda",
     "url": "http://www.mailpanda.com/"
   },
   {
     "name": "MailPoet",
-    "slug": "mail-poet",
+    "slug": "mailpoet",
     "url": "https://www.mailpoet.com/"
   },
   {
     "name": "MailUp",
-    "slug": "mail-up",
+    "slug": "mailup",
     "url": "https://www.mailup.com/"
   },
   {
     "name": "MailXpert",
-    "slug": "mail-xpert",
+    "slug": "mailxpert",
     "url": "https://www.mailxpert.ch/"
   },
   {
@@ -756,7 +756,7 @@
   },
   {
     "name": "MailerLite",
-    "slug": "mailer-lite",
+    "slug": "mailerlite",
     "url": "https://www.mailerlite.com/"
   },
   {
@@ -806,7 +806,7 @@
   },
   {
     "name": "Makesbridge BridgeMail System",
-    "slug": "makesbridge-bridge-mail-system",
+    "slug": "makesbridge-bridgemail-system",
     "url": "https://www.makesbridge.com/"
   },
   {
@@ -816,7 +816,7 @@
   },
   {
     "name": "MarketVolt",
-    "slug": "market-volt",
+    "slug": "marketvolt",
     "url": "https://marketvolt.com/"
   },
   {
@@ -871,12 +871,12 @@
   },
   {
     "name": "mobileStorm",
-    "slug": "mobile-storm",
+    "slug": "mobilestorm",
     "url": "https://mobilestorm.com/"
   },
   {
     "name": "MobilizeMail",
-    "slug": "mobilize-mail",
+    "slug": "mobilizemail",
     "url": "http://www.mobilizemail.com/"
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "name": "MyNewsletterBuilder",
-    "slug": "my-newsletter-builder",
+    "slug": "mynewsletterbuilder",
     "url": "https://www.mynewsletterbuilder.com/"
   },
   {
@@ -906,7 +906,7 @@
   },
   {
     "name": "NewsMan",
-    "slug": "news-man",
+    "slug": "newsman",
     "url": "https://www.newsman.app/"
   },
   {
@@ -931,7 +931,7 @@
   },
   {
     "name": "OmetriaA",
-    "slug": "ometria-a",
+    "slug": "ometriaa",
     "url": "https://ometria.com/"
   },
   {
@@ -971,7 +971,7 @@
   },
   {
     "name": "OutboundEngine",
-    "slug": "outbound-engine",
+    "slug": "outboundengine",
     "url": "https://www.outboundengine.com/"
   },
   {
@@ -991,12 +991,12 @@
   },
   {
     "name": "PostUp",
-    "slug": "post-up",
+    "slug": "postup",
     "url": "https://uplandsoftware.com/postup"
   },
   {
     "name": "PostageApp",
-    "slug": "postage-app",
+    "slug": "postageapp",
     "url": "https://postageapp.com/"
   },
   {
@@ -1006,7 +1006,7 @@
   },
   {
     "name": "PowerMailer",
-    "slug": "power-mailer",
+    "slug": "powermailer",
     "url": "http://www.powermailer.in/"
   },
   {
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "ReachMail",
-    "slug": "reach-mail",
+    "slug": "reachmail",
     "url": "https://reachmail.com/"
   },
   {
@@ -1051,12 +1051,12 @@
   },
   {
     "name": "RedCappi",
-    "slug": "red-cappi",
+    "slug": "redcappi",
     "url": "https://getredcappi.com/"
   },
   {
     "name": "RedEye",
-    "slug": "red-eye",
+    "slug": "redeye",
     "url": "https://www.redeye.com/"
   },
   {
@@ -1066,7 +1066,7 @@
   },
   {
     "name": "ResultsMail",
-    "slug": "results-mail",
+    "slug": "resultsmail",
     "url": "https://www.resultsmail.com/"
   },
   {
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "SALESmanago",
-    "slug": "sale-smanago",
+    "slug": "salesmanago",
     "url": "https://www.salesmanago.com/"
   },
   {
@@ -1101,7 +1101,7 @@
   },
   {
     "name": "Salesforce Marketing Cloud (ExactTarget)",
-    "slug": "salesforce-marketing-cloud-exact-target",
+    "slug": "salesforce-marketing-cloud-exacttarget",
     "url": "https://www.salesforce.com/products/marketing-cloud/overview/"
   },
   {
@@ -1116,17 +1116,17 @@
   },
   {
     "name": "SendBlaster",
-    "slug": "send-blaster",
+    "slug": "sendblaster",
     "url": "https://www.sendblaster.com/"
   },
   {
     "name": "SendCastle",
-    "slug": "send-castle",
+    "slug": "sendcastle",
     "url": "http://www.sendcastle.com/"
   },
   {
     "name": "SendGrid",
-    "slug": "send-grid",
+    "slug": "sendgrid",
     "url": "https://sendgrid.com/"
   },
   {
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "SendinBlue",
-    "slug": "sendin-blue",
+    "slug": "sendinblue",
     "url": "https://www.sendinblue.com/"
   },
   {
@@ -1166,7 +1166,7 @@
   },
   {
     "name": "SensorPro",
-    "slug": "sensor-pro",
+    "slug": "sensorpro",
     "url": "https://sensorpro.net/"
   },
   {
@@ -1181,7 +1181,7 @@
   },
   {
     "name": "SharpSpring",
-    "slug": "sharp-spring",
+    "slug": "sharpspring",
     "url": "https://sharpspring.com/"
   },
   {
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "SimplyCast",
-    "slug": "simply-cast",
+    "slug": "simplycast",
     "url": "https://www.simplycast.com/"
   },
   {
@@ -1201,27 +1201,27 @@
   },
   {
     "name": "SmartFocus",
-    "slug": "smart-focus",
+    "slug": "smartfocus",
     "url": "http://www.smartfocus.com/"
   },
   {
     "name": "SmarterHQ",
-    "slug": "smarter-hq",
+    "slug": "smarterhq",
     "url": "https://smarterhq.com/"
   },
   {
     "name": "SmartrMail",
-    "slug": "smartr-mail",
+    "slug": "smartrmail",
     "url": "https://www.smartrmail.com/"
   },
   {
     "name": "SocketLabs",
-    "slug": "socket-labs",
+    "slug": "socketlabs",
     "url": "https://www.socketlabs.com/"
   },
   {
     "name": "SparkPost",
-    "slug": "spark-post",
+    "slug": "sparkpost",
     "url": "https://www.sparkpost.com/"
   },
   {
@@ -1246,22 +1246,22 @@
   },
   {
     "name": "StampReady",
-    "slug": "stamp-ready",
+    "slug": "stampready",
     "url": "https://www.stampready.net/"
   },
   {
     "name": "StreamSend",
-    "slug": "stream-send",
+    "slug": "streamsend",
     "url": "https://www.streamsend.com/"
   },
   {
     "name": "Striata eMarketing",
-    "slug": "striata-e-marketing",
+    "slug": "striata-emarketing",
     "url": "https://www.striata.com/"
   },
   {
     "name": "SubscriberMail",
-    "slug": "subscriber-mail",
+    "slug": "subscribermail",
     "url": "http://www.subscribermail.com/"
   },
   {
@@ -1276,12 +1276,12 @@
   },
   {
     "name": "TailoredMail",
-    "slug": "tailored-mail",
+    "slug": "tailoredmail",
     "url": "https://e.tailoredmail.com/"
   },
   {
     "name": "TargetSend",
-    "slug": "target-send",
+    "slug": "targetsend",
     "url": "https://www.targetsend.com/"
   },
   {
@@ -1296,7 +1296,7 @@
   },
   {
     "name": "TotalSend",
-    "slug": "total-send",
+    "slug": "totalsend",
     "url": "https://www.totalsend.com/"
   },
   {
@@ -1306,7 +1306,7 @@
   },
   {
     "name": "TriggMine",
-    "slug": "trigg-mine",
+    "slug": "triggmine",
     "url": "http://www.triggmine.com/"
   },
   {
@@ -1316,7 +1316,7 @@
   },
   {
     "name": "VOXmail",
-    "slug": "vo-xmail",
+    "slug": "voxmail",
     "url": "https://www.voxmail.it/"
   },
   {
@@ -1331,12 +1331,12 @@
   },
   {
     "name": "VerticalResponse",
-    "slug": "vertical-response",
+    "slug": "verticalresponse",
     "url": "https://www.verticalresponse.com/"
   },
   {
     "name": "VerveMail",
-    "slug": "verve-mail",
+    "slug": "vervemail",
     "url": "http://vervemail.com/"
   },
   {
@@ -1356,7 +1356,7 @@
   },
   {
     "name": "WhatCounts",
-    "slug": "what-counts",
+    "slug": "whatcounts",
     "url": "https://www.whatcounts.com/"
   },
   {
@@ -1366,12 +1366,12 @@
   },
   {
     "name": "Wix ShoutOut",
-    "slug": "wix-shout-out",
+    "slug": "wix-shoutout",
     "url": "https://www.wix.com/shoutout/email-marketing"
   },
   {
     "name": "XQueue",
-    "slug": "x-queue",
+    "slug": "xqueue",
     "url": "https://www.xqueue.de/"
   },
   {
