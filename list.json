@@ -1,1114 +1,1392 @@
 [
   {
-      "name": "1ShoppingCart",
-      "url": "http://www.1shoppingcart.com/"
+    "name": "1ShoppingCart",
+    "slug": "1-shopping-cart",
+    "url": "http://www.1shoppingcart.com/"
   },
   {
-      "name": "Acoustic (IBM Silverpop/Watson)",
-      "url": "https://acoustic.co/"
+    "name": "Acoustic (IBM Silverpop/Watson)",
+    "slug": "acoustic-ibm-silverpop-watson",
+    "url": "https://acoustic.co/"
   },
   {
-      "name": "Act-On software",
-      "url": "https://www.act-on.com/"
+    "name": "Act-On software",
+    "slug": "act-on-software",
+    "url": "https://www.act-on.com/"
   },
   {
-      "name": "ACTITO",
-      "url": "https://www.actito.com/en"
+    "name": "ACTITO",
+    "slug": "actito",
+    "url": "https://www.actito.com/en"
   },
   {
-      "name": "ActiveCampaign",
-      "url": "https://www.activecampaign.com/"
+    "name": "ActiveCampaign",
+    "slug": "active-campaign",
+    "url": "https://www.activecampaign.com/"
   },
   {
-      "name": "ActiveTrail",
-      "url": "https://www.activetrail.com/"
+    "name": "ActiveTrail",
+    "slug": "active-trail",
+    "url": "https://www.activetrail.com/"
   },
   {
-      "name": "Acxiom Digital",
-      "url": "https://www.acxiom.com/"
+    "name": "Acxiom Digital",
+    "slug": "acxiom-digital",
+    "url": "https://www.acxiom.com/"
   },
   {
-      "name": "Adestra",
-      "url": "https://www.adestra.com/"
+    "name": "Adestra",
+    "slug": "adestra",
+    "url": "https://www.adestra.com/"
   },
   {
-      "name": "Admail.net",
-      "url": "https://www.admail.net/"
+    "name": "Admail.net",
+    "slug": "admail-net",
+    "url": "https://www.admail.net/"
   },
   {
-      "name": "Adobe Campaign",
-      "url": "https://www.adobe.com/marketing-cloud/campaign-management.html"
+    "name": "Adobe Campaign",
+    "slug": "adobe-campaign",
+    "url": "https://www.adobe.com/marketing-cloud/campaign-management.html"
   },
   {
-      "name": "Adrom",
-      "url": "https://www.adrom.net/"
+    "name": "Adrom",
+    "slug": "adrom",
+    "url": "https://www.adrom.net/"
   },
   {
-      "name": "Agnitas",
-      "url": "https://www.agnitas.de/"
+    "name": "Agnitas",
+    "slug": "agnitas",
+    "url": "https://www.agnitas.de/"
   },
   {
-      "name": "Antavo",
-      "url": "https://antavo.com/"
+    "name": "Antavo",
+    "slug": "antavo",
+    "url": "https://antavo.com/"
   },
   {
-      "name": "Apsis",
-      "url": "https://www.apsis.com/"
+    "name": "Apsis",
+    "slug": "apsis",
+    "url": "https://www.apsis.com/"
   },
   {
-      "name": "Artegic",
-      "url": "https://www.artegic.com/"
+    "name": "Artegic",
+    "slug": "artegic",
+    "url": "https://www.artegic.com/"
   },
   {
-      "name": "Arvato Systems elettershop",
-      "url": "https://www.bertelsmann.com/divisions/arvato/"
+    "name": "Arvato Systems elettershop",
+    "slug": "arvato-systems-elettershop",
+    "url": "https://www.bertelsmann.com/divisions/arvato/"
   },
   {
-      "name": "Audiencepoint",
-      "url": "https://audiencepoint.com/"
+    "name": "Audiencepoint",
+    "slug": "audiencepoint",
+    "url": "https://audiencepoint.com/"
   },
   {
-      "name": "Aurea (Lyris)",
-      "url": "https://www.aurea.com/"
+    "name": "Aurea (Lyris)",
+    "slug": "aurea-lyris",
+    "url": "https://www.aurea.com/"
   },
   {
-      "name": "Authsmtp",
-      "url": "https://www.authsmtp.com/"
+    "name": "Authsmtp",
+    "slug": "authsmtp",
+    "url": "https://www.authsmtp.com/"
   },
   {
-      "name": "Automizy",
-      "url": "https://automizy.com/"
+    "name": "Automizy",
+    "slug": "automizy",
+    "url": "https://automizy.com/"
   },
   {
-      "name": "Autopilot",
-      "url": "https://www.autopilothq.com/"
+    "name": "Autopilot",
+    "slug": "autopilot",
+    "url": "https://www.autopilothq.com/"
   },
   {
-      "name": "Avari",
-      "url": "http://www.avari.io/"
+    "name": "Avari",
+    "slug": "avari",
+    "url": "http://www.avari.io/"
   },
   {
-      "name": "Aweber",
-      "url": "https://www.aweber.com/"
+    "name": "Aweber",
+    "slug": "aweber",
+    "url": "https://www.aweber.com/"
   },
   {
-      "name": "Backclick",
-      "url": "https://www.backclick.de/"
+    "name": "Backclick",
+    "slug": "backclick",
+    "url": "https://www.backclick.de/"
   },
   {
-      "name": "Barilliance",
-      "url": "https://www.barilliance.com/"
+    "name": "Barilliance",
+    "slug": "barilliance",
+    "url": "https://www.barilliance.com/"
   },
   {
-      "name": "Basegrow",
-      "url": "https://www.inboxroad.com/"
+    "name": "Basegrow",
+    "slug": "basegrow",
+    "url": "https://www.inboxroad.com/"
   },
   {
-      "name": "BeMail",
-      "url": "https://www.bemail.it/"
+    "name": "BeMail",
+    "slug": "be-mail",
+    "url": "https://www.bemail.it/"
   },
   {
-      "name": "Benchmark Email",
-      "url": "https://www.benchmarkemail.com/"
+    "name": "Benchmark Email",
+    "slug": "benchmark-email",
+    "url": "https://www.benchmarkemail.com/"
   },
   {
-      "name": "BlackBox",
-      "url": "https://www.blackbox.email/"
+    "name": "BlackBox",
+    "slug": "black-box",
+    "url": "https://www.blackbox.email/"
   },
   {
-      "name": "Blackbaud",
-      "url": "https://www.blackbaud.com/"
+    "name": "Blackbaud",
+    "slug": "blackbaud",
+    "url": "https://www.blackbaud.com/"
   },
   {
-      "name": "BlueHornet – Mapp",
-      "url": "https://mapp.com/bluehornet/"
+    "name": "BlueHornet – Mapp",
+    "slug": "blue-hornet-mapp",
+    "url": "https://mapp.com/bluehornet/"
   },
   {
-      "name": "BombBomb",
-      "url": "https://bombbomb.com/"
+    "name": "BombBomb",
+    "slug": "bomb-bomb",
+    "url": "https://bombbomb.com/"
   },
   {
-      "name": "Brick Street Software",
-      "url": "http://brickstreetsoftware.com/"
+    "name": "Brick Street Software",
+    "slug": "brick-street-software",
+    "url": "http://brickstreetsoftware.com/"
   },
   {
-      "name": "BrightSpeed",
-      "url": "https://brightspeed.com/"
+    "name": "BrightSpeed",
+    "slug": "bright-speed",
+    "url": "https://brightspeed.com/"
   },
   {
-      "name": "CakeMail",
-      "url": "https://www.cakemail.com/"
+    "name": "CakeMail",
+    "slug": "cake-mail",
+    "url": "https://www.cakemail.com/"
   },
   {
-      "name": "Campaign Monitor",
-      "url": "https://www.campaignmonitor.com/"
+    "name": "Campaign Monitor",
+    "slug": "campaign-monitor",
+    "url": "https://www.campaignmonitor.com/"
   },
   {
-      "name": "Campaigner",
-      "url": "https://www.campaigner.com/"
+    "name": "Campaigner",
+    "slug": "campaigner",
+    "url": "https://www.campaigner.com/"
   },
   {
-      "name": "Campayn",
-      "url": "https://www.campayn.com/"
+    "name": "Campayn",
+    "slug": "campayn",
+    "url": "https://www.campayn.com/"
   },
   {
-      "name": "Certainsource eWayDirect",
-      "url": "https://www.certainsource.com"
+    "name": "Certainsource eWayDirect",
+    "slug": "certainsource-e-way-direct",
+    "url": "https://www.certainsource.com"
   },
   {
-      "name": "Cheetah Digital",
-      "url": "http://www.cheetahdigital.com/"
+    "name": "Cheetah Digital",
+    "slug": "cheetah-digital",
+    "url": "http://www.cheetahdigital.com/"
   },
   {
-      "name": "Circulator",
-      "url": "https://www.circulator.com/"
+    "name": "Circulator",
+    "slug": "circulator",
+    "url": "https://www.circulator.com/"
   },
   {
-      "name": "Clever Elements",
-      "url": "https://www.cleverelements.com/"
+    "name": "Clever Elements",
+    "slug": "clever-elements",
+    "url": "https://www.cleverelements.com/"
   },
   {
-      "name": "CleverReach",
-      "url": "https://www.cleverreach.com/"
+    "name": "CleverReach",
+    "slug": "clever-reach",
+    "url": "https://www.cleverreach.com/"
   },
   {
-      "name": "ClickDimensions",
-      "url": "https://clickdimensions.com/"
+    "name": "ClickDimensions",
+    "slug": "click-dimensions",
+    "url": "https://clickdimensions.com/"
   },
   {
-      "name": "ClickFunnels",
-      "url": "https://www.clickfunnels.com/"
+    "name": "ClickFunnels",
+    "slug": "click-funnels",
+    "url": "https://www.clickfunnels.com/"
   },
   {
-      "name": "ClickMail",
-      "url": "http://clickmail.com/"
+    "name": "ClickMail",
+    "slug": "click-mail",
+    "url": "http://clickmail.com/"
   },
   {
-      "name": "Communicator",
-      "url": "https://www.communicatorcorp.com/"
+    "name": "Communicator",
+    "slug": "communicator",
+    "url": "https://www.communicatorcorp.com/"
   },
   {
-      "name": "Communigator",
-      "url": "https://www.communigator.co.uk/"
+    "name": "Communigator",
+    "slug": "communigator",
+    "url": "https://www.communigator.co.uk/"
   },
   {
-      "name": "Constant Contact",
-      "url": "https://www.constantcontact.com/"
+    "name": "Constant Contact",
+    "slug": "constant-contact",
+    "url": "https://www.constantcontact.com/"
   },
   {
-      "name": "Consultix",
-      "url": "https://www.consultix.net/"
+    "name": "Consultix",
+    "slug": "consultix",
+    "url": "https://www.consultix.net/"
   },
   {
-      "name": "Contactlab",
-      "url": "https://contactlab.com/en/"
+    "name": "Contactlab",
+    "slug": "contactlab",
+    "url": "https://contactlab.com/en/"
   },
   {
-      "name": "Convertkit",
-      "url": "https://convertkit.com/"
+    "name": "Convertkit",
+    "slug": "convertkit",
+    "url": "https://convertkit.com/"
   },
   {
-      "name": "Copernica",
-      "url": "https://www.copernica.com/en"
+    "name": "Copernica",
+    "slug": "copernica",
+    "url": "https://www.copernica.com/en"
   },
   {
-      "name": "Cordial",
-      "url": "https://cordial.com/"
+    "name": "Cordial",
+    "slug": "cordial",
+    "url": "https://cordial.com/"
   },
   {
-      "name": "Courrielleur",
-      "url": "https://courrielleur.com/"
+    "name": "Courrielleur",
+    "slug": "courrielleur",
+    "url": "https://courrielleur.com/"
   },
   {
-      "name": "DWMS",
-      "url": "https://www.direktmarketing-hamburg.de/"
+    "name": "DWMS",
+    "slug": "dwms",
+    "url": "https://www.direktmarketing-hamburg.de/"
   },
   {
-      "name": "Delivra",
-      "url": "https://www.delivra.com/"
+    "name": "Delivra",
+    "slug": "delivra",
+    "url": "https://www.delivra.com/"
   },
   {
-      "name": "Dialog Insight",
-      "url": "https://www.dialoginsight.com/en/"
+    "name": "Dialog Insight",
+    "slug": "dialog-insight",
+    "url": "https://www.dialoginsight.com/en/"
   },
   {
-      "name": "DirectIQ",
-      "url": "https://www.directiq.com/"
+    "name": "DirectIQ",
+    "slug": "direct-iq",
+    "url": "https://www.directiq.com/"
   },
   {
-      "name": "DoctorSender",
-      "url": "https://www.doctorsender.com/en/"
+    "name": "DoctorSender",
+    "slug": "doctor-sender",
+    "url": "https://www.doctorsender.com/en/"
   },
   {
-      "name": "Dolist",
-      "url": "https://www.dolist.com/"
+    "name": "Dolist",
+    "slug": "dolist",
+    "url": "https://www.dolist.com/"
   },
   {
-      "name": "Doppler",
-      "url": "https://www.fromdoppler.com/"
+    "name": "Doppler",
+    "slug": "doppler",
+    "url": "https://www.fromdoppler.com/"
   },
   {
-      "name": "dotdigital Engagement Cloud (dotmailer)",
-      "url": "https://dotdigital.com/"
+    "name": "dotdigital Engagement Cloud (dotmailer)",
+    "slug": "dotdigital-engagement-cloud-dotmailer",
+    "url": "https://dotdigital.com/"
   },
   {
-      "name": "Drip",
-      "url": "https://www.drip.com/"
+    "name": "Drip",
+    "slug": "drip",
+    "url": "https://www.drip.com/"
   },
   {
-      "name": "e-goi",
-      "url": "https://www.e-goi.com/"
+    "name": "e-goi",
+    "slug": "e-goi",
+    "url": "https://www.e-goi.com/"
   },
   {
-      "name": "e-shot",
-      "url": "https://www.e-shot.net/"
+    "name": "e-shot",
+    "slug": "e-shot",
+    "url": "https://www.e-shot.net/"
   },
   {
-      "name": "e-Village",
-      "url": "https://www.e-village.nl/"
+    "name": "e-Village",
+    "slug": "e-village",
+    "url": "https://www.e-village.nl/"
   },
   {
-      "name": "eBooster",
-      "url": "http://www.ebooster.dk/"
+    "name": "eBooster",
+    "slug": "e-booster",
+    "url": "http://www.ebooster.dk/"
   },
   {
-      "name": "eCampaignPro",
-      "url": "https://www.ecampaignpros.com/"
+    "name": "eCampaignPro",
+    "slug": "e-campaign-pro",
+    "url": "https://www.ecampaignpros.com/"
   },
   {
-      "name": "eConnect email",
-      "url": "http://econnectemail.com/"
+    "name": "eConnect email",
+    "slug": "e-connect-email",
+    "url": "http://econnectemail.com/"
   },
   {
-      "name": "Edatis",
-      "url": "http://edatis.com/"
+    "name": "Edatis",
+    "slug": "edatis",
+    "url": "http://edatis.com/"
   },
   {
-      "name": "eGENTIC",
-      "url": "https://www.egentic.com/"
+    "name": "eGENTIC",
+    "slug": "e-gentic",
+    "url": "https://www.egentic.com/"
   },
   {
-      "name": "Elastic Email",
-      "url": "https://elasticemail.com/"
+    "name": "Elastic Email",
+    "slug": "elastic-email",
+    "url": "https://elasticemail.com/"
   },
   {
-      "name": "Email ladder",
-      "url": "https://www.email-ladder.co.uk/"
+    "name": "Email ladder",
+    "slug": "email-ladder",
+    "url": "https://www.email-ladder.co.uk/"
   },
   {
-      "name": "Emailcenter",
-      "url": "https://maxemail.xtremepush.com/"
+    "name": "Emailcenter",
+    "slug": "emailcenter",
+    "url": "https://maxemail.xtremepush.com/"
   },
   {
-      "name": "Emailmanager",
-      "url": "https://www.emailmanager.com/"
+    "name": "Emailmanager",
+    "slug": "emailmanager",
+    "url": "https://www.emailmanager.com/"
   },
   {
-      "name": "EmailOctopus",
-      "url": "https://emailoctopus.com/"
+    "name": "EmailOctopus",
+    "slug": "email-octopus",
+    "url": "https://emailoctopus.com/"
   },
   {
-      "name": "eMailPlatform",
-      "url": "https://emailplatform.com/"
+    "name": "eMailPlatform",
+    "slug": "e-mail-platform",
+    "url": "https://emailplatform.com/"
   },
   {
-      "name": "eMarketeer",
-      "url": "https://www.emarketeer.com/"
+    "name": "eMarketeer",
+    "slug": "e-marketeer",
+    "url": "https://www.emarketeer.com/"
   },
   {
-      "name": "Emarsys",
-      "url": "https://www.emarsys.com/"
+    "name": "Emarsys",
+    "slug": "emarsys",
+    "url": "https://www.emarsys.com/"
   },
   {
-      "name": "Emercury",
-      "url": "https://www.emercury.net/"
+    "name": "Emercury",
+    "slug": "emercury",
+    "url": "https://www.emercury.net/"
   },
   {
-      "name": "emfluence",
-      "url": "https://emarketingplatform.com/"
+    "name": "emfluence",
+    "slug": "emfluence",
+    "url": "https://emarketingplatform.com/"
   },
   {
-      "name": "Emma",
-      "url": "https://myemma.com/"
+    "name": "Emma",
+    "slug": "emma",
+    "url": "https://myemma.com/"
   },
   {
-      "name": "Empaction",
-      "url": "https://empaction.com/"
+    "name": "Empaction",
+    "slug": "empaction",
+    "url": "https://empaction.com/"
   },
   {
-      "name": "Enabler",
-      "url": "http://www.enablermail.com/"
+    "name": "Enabler",
+    "slug": "enabler",
+    "url": "http://www.enablermail.com/"
   },
   {
-      "name": "Envoke",
-      "url": "https://envoke.com/"
+    "name": "Envoke",
+    "slug": "envoke",
+    "url": "https://envoke.com/"
   },
   {
-      "name": "Episerver Campaign",
-      "url": "https://www.episerver.com/products/features/marketing-automation/"
+    "name": "Episerver Campaign",
+    "slug": "episerver-campaign",
+    "url": "https://www.episerver.com/products/features/marketing-automation/"
   },
   {
-      "name": "eSputnik",
-      "url": "https://esputnik.com/en"
+    "name": "eSputnik",
+    "slug": "e-sputnik",
+    "url": "https://esputnik.com/en"
   },
   {
-      "name": "eTelligent",
-      "url": "https://www.etelligent.co.uk/"
+    "name": "eTelligent",
+    "slug": "e-telligent",
+    "url": "https://www.etelligent.co.uk/"
   },
   {
-      "name": "euromessage",
-      "url": "https://www.euromsg.com/en"
+    "name": "euromessage",
+    "slug": "euromessage",
+    "url": "https://www.euromsg.com/en"
   },
   {
-      "name": "Everlytic",
-      "url": "https://www.everlytic.co.za/"
+    "name": "Everlytic",
+    "slug": "everlytic",
+    "url": "https://www.everlytic.co.za/"
   },
   {
-      "name": "ExpertSender",
-      "url": "https://expertsender.com/"
+    "name": "ExpertSender",
+    "slug": "expert-sender",
+    "url": "https://expertsender.com/"
   },
   {
-      "name": "Express Pigeon",
-      "url": "https://expresspigeon.com/"
+    "name": "Express Pigeon",
+    "slug": "express-pigeon",
+    "url": "https://expresspigeon.com/"
   },
   {
-      "name": "Eyepin",
-      "url": "https://www.eyepin.com/"
+    "name": "Eyepin",
+    "slug": "eyepin",
+    "url": "https://www.eyepin.com/"
   },
   {
-      "name": "EzyMsg",
-      "url": "https://www.ezymsg.com/"
+    "name": "EzyMsg",
+    "slug": "ezy-msg",
+    "url": "https://www.ezymsg.com/"
   },
   {
-      "name": "FireDrum Email Marketing",
-      "url": "https://firedrumemailmarketing.com/"
+    "name": "FireDrum Email Marketing",
+    "slug": "fire-drum-email-marketing",
+    "url": "https://firedrumemailmarketing.com/"
   },
   {
-      "name": "Fishbowl Marketing",
-      "url": "https://www.fishbowl.com/"
+    "name": "Fishbowl Marketing",
+    "slug": "fishbowl-marketing",
+    "url": "https://www.fishbowl.com/"
   },
   {
-      "name": "Flatrate Newsletter",
-      "url": "https://www.flatrate-newsletter.de/"
+    "name": "Flatrate Newsletter",
+    "slug": "flatrate-newsletter",
+    "url": "https://www.flatrate-newsletter.de/"
   },
   {
-      "name": "Flexmail",
-      "url": "https://flexmail.be/"
+    "name": "Flexmail",
+    "slug": "flexmail",
+    "url": "https://flexmail.be/"
   },
   {
-      "name": "Flowmailer",
-      "url": "https://flowmailer.com/en/"
+    "name": "Flowmailer",
+    "slug": "flowmailer",
+    "url": "https://flowmailer.com/en/"
   },
   {
-      "name": "Fresh Relevance",
-      "url": "https://www.freshrelevance.com/"
+    "name": "Fresh Relevance",
+    "slug": "fresh-relevance",
+    "url": "https://www.freshrelevance.com/"
   },
   {
-      "name": "Freshmail",
-      "url": "https://freshmail.com/"
+    "name": "Freshmail",
+    "slug": "freshmail",
+    "url": "https://freshmail.com/"
   },
   {
-      "name": "GTC TeleCommunication",
-      "url": "https://gtc.de/"
+    "name": "GTC TeleCommunication",
+    "slug": "gtc-tele-communication",
+    "url": "https://gtc.de/"
   },
   {
-      "name": "GetResponse",
-      "url": "https://getresponse.com/"
+    "name": "GetResponse",
+    "slug": "get-response",
+    "url": "https://getresponse.com/"
   },
   {
-      "name": "Globase",
-      "url": "https://www.globase.dk/en"
+    "name": "Globase",
+    "slug": "globase",
+    "url": "https://www.globase.dk/en"
   },
   {
-      "name": "Gold Lasso",
-      "url": "https://www.goldlasso.com/"
+    "name": "Gold Lasso",
+    "slug": "gold-lasso",
+    "url": "https://www.goldlasso.com/"
   },
   {
-      "name": "Gold-Vision",
-      "url": "https://www.gold-vision.com/"
+    "name": "Gold-Vision",
+    "slug": "gold-vision",
+    "url": "https://www.gold-vision.com/"
   },
   {
-      "name": "Goolara",
-      "url": "https://goolara.com/"
+    "name": "Goolara",
+    "slug": "goolara",
+    "url": "https://goolara.com/"
   },
   {
-      "name": "Green Arrow",
-      "url": "https://www.greenarrowemail.com/"
+    "name": "Green Arrow",
+    "slug": "green-arrow",
+    "url": "https://www.greenarrowemail.com/"
   },
   {
-      "name": "Green Mail Internet Marketing",
-      "url": "https://greenmailinc.com/"
+    "name": "Green Mail Internet Marketing",
+    "slug": "green-mail-internet-marketing",
+    "url": "https://greenmailinc.com/"
   },
   {
-      "name": "Groupmail",
-      "url": "https://group-mail.com/"
+    "name": "Groupmail",
+    "slug": "groupmail",
+    "url": "https://group-mail.com/"
   },
   {
-      "name": "Groupvine",
-      "url": "https://www.groupvine.com/"
+    "name": "Groupvine",
+    "slug": "groupvine",
+    "url": "https://www.groupvine.com/"
   },
   {
-      "name": "Hatchbuck",
-      "url": "https://www.hatchbuck.com/"
+    "name": "Hatchbuck",
+    "slug": "hatchbuck",
+    "url": "https://www.hatchbuck.com/"
   },
   {
-      "name": "Hellodialog",
-      "url": "https://www.hellodialog.com/"
+    "name": "Hellodialog",
+    "slug": "hellodialog",
+    "url": "https://www.hellodialog.com/"
   },
   {
-      "name": "HubSpot",
-      "url": "https://www.hubspot.com/"
+    "name": "HubSpot",
+    "slug": "hub-spot",
+    "url": "https://www.hubspot.com/"
   },
   {
-      "name": "Hypermail",
-      "url": "https://hypermail.com/"
+    "name": "Hypermail",
+    "slug": "hypermail",
+    "url": "https://hypermail.com/"
   },
   {
-      "name": "iContact",
-      "url": "https://www.icontact.com/"
+    "name": "iContact",
+    "slug": "i-contact",
+    "url": "https://www.icontact.com/"
   },
   {
-      "name": "iCubesPro",
-      "url": "https://www.icubespro.com/"
+    "name": "iCubesPro",
+    "slug": "i-cubes-pro",
+    "url": "https://www.icubespro.com/"
   },
   {
-      "name": "Inbox Broker",
-      "url": "https://www.inboxbroker.co.uk/"
+    "name": "Inbox Broker",
+    "slug": "inbox-broker",
+    "url": "https://www.inboxbroker.co.uk/"
   },
   {
-      "name": "InboxRoad",
-      "url": "https://www.inboxroad.com/"
+    "name": "InboxRoad",
+    "slug": "inbox-road",
+    "url": "https://www.inboxroad.com/"
   },
   {
-      "name": "Infusionsoft by Keap",
-      "url": "https://keap.com/"
+    "name": "Infusionsoft by Keap",
+    "slug": "infusionsoft-by-keap",
+    "url": "https://keap.com/"
   },
   {
-      "name": "Instiller",
-      "url": "https://instiller.co.uk/"
+    "name": "Instiller",
+    "slug": "instiller",
+    "url": "https://instiller.co.uk/"
   },
   {
-      "name": "Intercom",
-      "url": "https://www.intercom.com/"
+    "name": "Intercom",
+    "slug": "intercom",
+    "url": "https://www.intercom.com/"
   },
   {
-      "name": "Interspire",
-      "url": "https://www.interspire.com/"
+    "name": "Interspire",
+    "slug": "interspire",
+    "url": "https://www.interspire.com/"
   },
   {
-      "name": "InTouch CRM",
-      "url": "https://www.intouchcrm.com/"
+    "name": "InTouch CRM",
+    "slug": "in-touch-crm",
+    "url": "https://www.intouchcrm.com/"
   },
   {
-      "name": "Inxmail",
-      "url": "https://www.inxmail.de/"
+    "name": "Inxmail",
+    "slug": "inxmail",
+    "url": "https://www.inxmail.de/"
   },
   {
-      "name": "iPost",
-      "url": "https://www.ipost.com/"
+    "name": "iPost",
+    "slug": "i-post",
+    "url": "https://www.ipost.com/"
   },
   {
-      "name": "Iterable",
-      "url": "https://iterable.com/"
+    "name": "Iterable",
+    "slug": "iterable",
+    "url": "https://iterable.com/"
   },
   {
-      "name": "itracMarketer",
-      "url": "https://itracmarketer.com/"
+    "name": "itracMarketer",
+    "slug": "itrac-marketer",
+    "url": "https://itracmarketer.com/"
   },
   {
-      "name": "JangoMail",
-      "url": "https://jangomail.com/"
+    "name": "JangoMail",
+    "slug": "jango-mail",
+    "url": "https://jangomail.com/"
   },
   {
-      "name": "Kenscio",
-      "url": "https://www.kenscio.com/"
+    "name": "Kenscio",
+    "slug": "kenscio",
+    "url": "https://www.kenscio.com/"
   },
   {
-      "name": "Klaviyo",
-      "url": "https://www.klaviyo.com/"
+    "name": "Klaviyo",
+    "slug": "klaviyo",
+    "url": "https://www.klaviyo.com/"
   },
   {
-      "name": "Klick Tipp",
-      "url": "https://www.klick-tipp.com/"
+    "name": "Klick Tipp",
+    "slug": "klick-tipp",
+    "url": "https://www.klick-tipp.com/"
   },
   {
-      "name": "kulea.ma",
-      "url": "https://kulea.ma/"
+    "name": "kulea.ma",
+    "slug": "kulea-ma",
+    "url": "https://kulea.ma/"
   },
   {
-      "name": "LeadBI",
-      "url": "https://www.leadbi.com/"
+    "name": "LeadBI",
+    "slug": "lead-bi",
+    "url": "https://www.leadbi.com/"
   },
   {
-      "name": "Liana Technologies",
-      "url": "https://www.lianatech.com/"
+    "name": "Liana Technologies",
+    "slug": "liana-technologies",
+    "url": "https://www.lianatech.com/"
   },
   {
-      "name": "Listrak",
-      "url": "https://www.listrak.com/"
+    "name": "Listrak",
+    "slug": "listrak",
+    "url": "https://www.listrak.com/"
   },
   {
-      "name": "Lsoft",
-      "url": "http://www.lsoft.com/"
+    "name": "Lsoft",
+    "slug": "lsoft",
+    "url": "http://www.lsoft.com/"
   },
   {
-      "name": "Lucini & Lucini Communications",
-      "url": "http://www.lucinilucini.com/en/"
+    "name": "Lucini & Lucini Communications",
+    "slug": "lucini-and-lucini-communications",
+    "url": "http://www.lucinilucini.com/en/"
   },
   {
-      "name": "Mad Mimi",
-      "url": "https://madmimi.com/"
+    "name": "Mad Mimi",
+    "slug": "mad-mimi",
+    "url": "https://madmimi.com/"
   },
   {
-      "name": "MagNews",
-      "url": "https://www.magnews.com/"
+    "name": "MagNews",
+    "slug": "mag-news",
+    "url": "https://www.magnews.com/"
   },
   {
-      "name": "Mail Dog",
-      "url": "http://mail-dog.com/explore"
+    "name": "Mail Dog",
+    "slug": "mail-dog",
+    "url": "http://mail-dog.com/explore"
   },
   {
-      "name": "Mail2many",
-      "url": "https://www.mail2many.de/"
+    "name": "Mail2many",
+    "slug": "mail2many",
+    "url": "https://www.mail2many.de/"
   },
   {
-      "name": "MailAgent",
-      "url": "https://www.mailagent.co.uk/"
+    "name": "MailAgent",
+    "slug": "mail-agent",
+    "url": "https://www.mailagent.co.uk/"
   },
   {
-      "name": "MailChimp",
-      "url": "https://mailchimp.com/"
+    "name": "MailChimp",
+    "slug": "mail-chimp",
+    "url": "https://mailchimp.com/"
   },
   {
-      "name": "MailKitchen",
-      "url": "https://www.mailkitchen.com/"
+    "name": "MailKitchen",
+    "slug": "mail-kitchen",
+    "url": "https://www.mailkitchen.com/"
   },
   {
-      "name": "MailPanda",
-      "url": "http://www.mailpanda.com/"
+    "name": "MailPanda",
+    "slug": "mail-panda",
+    "url": "http://www.mailpanda.com/"
   },
   {
-      "name": "MailPoet",
-      "url": "https://www.mailpoet.com/"
+    "name": "MailPoet",
+    "slug": "mail-poet",
+    "url": "https://www.mailpoet.com/"
   },
   {
-      "name": "MailUp",
-      "url": "https://www.mailup.com/"
+    "name": "MailUp",
+    "slug": "mail-up",
+    "url": "https://www.mailup.com/"
   },
   {
-      "name": "MailXpert",
-      "url": "https://www.mailxpert.ch/"
+    "name": "MailXpert",
+    "slug": "mail-xpert",
+    "url": "https://www.mailxpert.ch/"
   },
   {
-      "name": "Mailcoach",
-      "url": "https://mailcoach.app/"
+    "name": "Mailcoach",
+    "slug": "mailcoach",
+    "url": "https://mailcoach.app/"
   },
   {
-      "name": "MailerLite",
-      "url": "https://www.mailerlite.com/"
+    "name": "MailerLite",
+    "slug": "mailer-lite",
+    "url": "https://www.mailerlite.com/"
   },
   {
-      "name": "Mailflatrate",
-      "url": "https://mailflatrate.com/"
+    "name": "Mailflatrate",
+    "slug": "mailflatrate",
+    "url": "https://mailflatrate.com/"
   },
   {
-      "name": "Mailgun",
-      "url": "https://www.mailgun.com/"
+    "name": "Mailgun",
+    "slug": "mailgun",
+    "url": "https://www.mailgun.com/"
   },
   {
-      "name": "Mailigen",
-      "url": "https://www.mailigen.com/"
+    "name": "Mailigen",
+    "slug": "mailigen",
+    "url": "https://www.mailigen.com/"
   },
   {
-      "name": "Mailingmanager",
-      "url": "https://www.mailingmanager.co.uk/"
+    "name": "Mailingmanager",
+    "slug": "mailingmanager",
+    "url": "https://www.mailingmanager.co.uk/"
   },
   {
-      "name": "Mailingwork",
-      "url": "https://mailingwork.de/"
+    "name": "Mailingwork",
+    "slug": "mailingwork",
+    "url": "https://mailingwork.de/"
   },
   {
-      "name": "Mailjet",
-      "url": "https://www.mailjet.com/"
+    "name": "Mailjet",
+    "slug": "mailjet",
+    "url": "https://www.mailjet.com/"
   },
   {
-      "name": "Mailkit",
-      "url": "https://www.mailkit.eu/"
+    "name": "Mailkit",
+    "slug": "mailkit",
+    "url": "https://www.mailkit.eu/"
   },
   {
-      "name": "Mailrelay",
-      "url": "https://mailrelay.com/"
+    "name": "Mailrelay",
+    "slug": "mailrelay",
+    "url": "https://mailrelay.com/"
   },
   {
-      "name": "Mailster",
-      "url": "https://mailster.co/"
+    "name": "Mailster",
+    "slug": "mailster",
+    "url": "https://mailster.co/"
   },
   {
-      "name": "Makesbridge BridgeMail System",
-      "url": "https://www.makesbridge.com/"
+    "name": "Makesbridge BridgeMail System",
+    "slug": "makesbridge-bridge-mail-system",
+    "url": "https://www.makesbridge.com/"
   },
   {
-      "name": "Mapp Digital",
-      "url": "https://mapp.com/"
+    "name": "Mapp Digital",
+    "slug": "mapp-digital",
+    "url": "https://mapp.com/"
   },
   {
-      "name": "MarketVolt",
-      "url": "https://marketvolt.com/"
+    "name": "MarketVolt",
+    "slug": "market-volt",
+    "url": "https://marketvolt.com/"
   },
   {
-      "name": "Marketo",
-      "url": "https://www.marketo.com/"
+    "name": "Marketo",
+    "slug": "marketo",
+    "url": "https://www.marketo.com/"
   },
   {
-      "name": "Markettraq",
-      "url": "http://www.markettraq.com/"
+    "name": "Markettraq",
+    "slug": "markettraq",
+    "url": "http://www.markettraq.com/"
   },
   {
-      "name": "Maropost",
-      "url": "https://www.maropost.com/"
+    "name": "Maropost",
+    "slug": "maropost",
+    "url": "https://www.maropost.com/"
   },
   {
-      "name": "Mautic",
-      "url": "https://www.mautic.org/"
+    "name": "Mautic",
+    "slug": "mautic",
+    "url": "https://www.mautic.org/"
   },
   {
-      "name": "mdirector",
-      "url": "https://www.mdirector.com/en"
+    "name": "mdirector",
+    "slug": "mdirector",
+    "url": "https://www.mdirector.com/en"
   },
   {
-      "name": "Measuremail",
-      "url": "https://www.measuremail.com/"
+    "name": "Measuremail",
+    "slug": "measuremail",
+    "url": "https://www.measuremail.com/"
   },
   {
-      "name": "Mercanto",
-      "url": "https://mercanto.app/"
+    "name": "Mercanto",
+    "slug": "mercanto",
+    "url": "https://mercanto.app/"
   },
   {
-      "name": "Message Business",
-      "url": "https://www.message-business.com/"
+    "name": "Message Business",
+    "slug": "message-business",
+    "url": "https://www.message-business.com/"
   },
   {
-      "name": "Messagegears",
-      "url": "https://messagegears.com/"
+    "name": "Messagegears",
+    "slug": "messagegears",
+    "url": "https://messagegears.com/"
   },
   {
-      "name": "Mister Mail",
-      "url": "https://www.mistermail.nl/"
+    "name": "Mister Mail",
+    "slug": "mister-mail",
+    "url": "https://www.mistermail.nl/"
   },
   {
-      "name": "mobileStorm",
-      "url": "https://mobilestorm.com/"
+    "name": "mobileStorm",
+    "slug": "mobile-storm",
+    "url": "https://mobilestorm.com/"
   },
   {
-      "name": "MobilizeMail",
-      "url": "http://www.mobilizemail.com/"
+    "name": "MobilizeMail",
+    "slug": "mobilize-mail",
+    "url": "http://www.mobilizemail.com/"
   },
   {
-      "name": "Moosend",
-      "url": "https://moosend.com/"
+    "name": "Moosend",
+    "slug": "moosend",
+    "url": "https://moosend.com/"
   },
   {
-      "name": "MyNewsletterBuilder",
-      "url": "https://www.mynewsletterbuilder.com/"
+    "name": "MyNewsletterBuilder",
+    "slug": "my-newsletter-builder",
+    "url": "https://www.mynewsletterbuilder.com/"
   },
   {
-      "name": "Mymailmarket",
-      "url": "https://www.mymailmarket.com/"
+    "name": "Mymailmarket",
+    "slug": "mymailmarket",
+    "url": "https://www.mymailmarket.com/"
   },
   {
-      "name": "Net Atlantic",
-      "url": "https://www.netatlantic.com/"
+    "name": "Net Atlantic",
+    "slug": "net-atlantic",
+    "url": "https://www.netatlantic.com/"
   },
   {
-      "name": "Net-Results",
-      "url": "https://www.net-results.com/"
+    "name": "Net-Results",
+    "slug": "net-results",
+    "url": "https://www.net-results.com/"
   },
   {
-      "name": "NewsMan",
-      "url": "https://www.newsman.app/"
+    "name": "NewsMan",
+    "slug": "news-man",
+    "url": "https://www.newsman.app/"
   },
   {
-      "name": "Newsletter2go",
-      "url": "https://www.newsletter2go.com/"
+    "name": "Newsletter2go",
+    "slug": "newsletter2go",
+    "url": "https://www.newsletter2go.com/"
   },
   {
-      "name": "Newsweaver",
-      "url": "https://www.newsweaver.com/"
+    "name": "Newsweaver",
+    "slug": "newsweaver",
+    "url": "https://www.newsweaver.com/"
   },
   {
-      "name": "Newzapp",
-      "url": "https://www.newzapp.co.uk/"
+    "name": "Newzapp",
+    "slug": "newzapp",
+    "url": "https://www.newzapp.co.uk/"
   },
   {
-      "name": "Octeth",
-      "url": "https://www2.octeth.com/"
+    "name": "Octeth",
+    "slug": "octeth",
+    "url": "https://www2.octeth.com/"
   },
   {
-      "name": "OmetriaA",
-      "url": "https://ometria.com/"
+    "name": "OmetriaA",
+    "slug": "ometria-a",
+    "url": "https://ometria.com/"
   },
   {
-      "name": "Omnisend",
-      "url": "https://www.omnisend.com/"
+    "name": "Omnisend",
+    "slug": "omnisend",
+    "url": "https://www.omnisend.com/"
   },
   {
-      "name": "Omnistar E-Direct",
-      "url": "https://www.omnistartell.com/"
+    "name": "Omnistar E-Direct",
+    "slug": "omnistar-e-direct",
+    "url": "https://www.omnistartell.com/"
   },
   {
-      "name": "Ongage",
-      "url": "https://www.ongage.com/"
+    "name": "Ongage",
+    "slug": "ongage",
+    "url": "https://www.ongage.com/"
   },
   {
-      "name": "Ontraport",
-      "url": "https://ontraport.com/"
+    "name": "Ontraport",
+    "slug": "ontraport",
+    "url": "https://ontraport.com/"
   },
   {
-      "name": "Oracle + Bronto",
-      "url": "https://bronto.com/"
+    "name": "Oracle + Bronto",
+    "slug": "oracle-bronto",
+    "url": "https://bronto.com/"
   },
   {
-      "name": "Oracle Eloqua",
-      "url": "https://www.oracle.com/marketingcloud/products/marketing-automation/"
+    "name": "Oracle Eloqua",
+    "slug": "oracle-eloqua",
+    "url": "https://www.oracle.com/marketingcloud/products/marketing-automation/"
   },
   {
-      "name": "Oracle Responsys",
-      "url": "https://www.oracle.com/marketingcloud/products/cross-channel-orchestration/"
+    "name": "Oracle Responsys",
+    "slug": "oracle-responsys",
+    "url": "https://www.oracle.com/marketingcloud/products/cross-channel-orchestration/"
   },
   {
-      "name": "OutboundEngine",
-      "url": "https://www.outboundengine.com/"
+    "name": "OutboundEngine",
+    "slug": "outbound-engine",
+    "url": "https://www.outboundengine.com/"
   },
   {
-      "name": "Pardot",
-      "url": "https://www.pardot.com/"
+    "name": "Pardot",
+    "slug": "pardot",
+    "url": "https://www.pardot.com/"
   },
   {
-      "name": "Pinpointe",
-      "url": "https://www.pinpointe.com/"
+    "name": "Pinpointe",
+    "slug": "pinpointe",
+    "url": "https://www.pinpointe.com/"
   },
   {
-      "name": "Pitney Bowes",
-      "url": "https://www.pitneybowes.com/ie/pbse/email-marketing.html"
+    "name": "Pitney Bowes",
+    "slug": "pitney-bowes",
+    "url": "https://www.pitneybowes.com/ie/pbse/email-marketing.html"
   },
   {
-      "name": "PostUp",
-      "url": "https://uplandsoftware.com/postup"
+    "name": "PostUp",
+    "slug": "post-up",
+    "url": "https://uplandsoftware.com/postup"
   },
   {
-      "name": "PostageApp",
-      "url": "https://postageapp.com/"
+    "name": "PostageApp",
+    "slug": "postage-app",
+    "url": "https://postageapp.com/"
   },
   {
-      "name": "Postmark",
-      "url": "https://postmarkapp.com/"
+    "name": "Postmark",
+    "slug": "postmark",
+    "url": "https://postmarkapp.com/"
   },
   {
-      "name": "PowerMailer",
-      "url": "http://www.powermailer.in/"
+    "name": "PowerMailer",
+    "slug": "power-mailer",
+    "url": "http://www.powermailer.in/"
   },
   {
-      "name": "Pulseem",
-      "url": "https://www.pulseem.com/"
+    "name": "Pulseem",
+    "slug": "pulseem",
+    "url": "https://www.pulseem.com/"
   },
   {
-      "name": "Pure360",
-      "url": "https://www.pure360.com/"
+    "name": "Pure360",
+    "slug": "pure360",
+    "url": "https://www.pure360.com/"
   },
   {
-      "name": "Puresend",
-      "url": "https://www.puresend.com/"
+    "name": "Puresend",
+    "slug": "puresend",
+    "url": "https://www.puresend.com/"
   },
   {
-      "name": "Quentn",
-      "url": "https://quentn.com/"
+    "name": "Quentn",
+    "slug": "quentn",
+    "url": "https://quentn.com/"
   },
   {
-      "name": "Rapidmail",
-      "url": "https://www.rapidmail.com/"
+    "name": "Rapidmail",
+    "slug": "rapidmail",
+    "url": "https://www.rapidmail.com/"
   },
   {
-      "name": "rdcom",
-      "url": "https://rdcom.com/"
+    "name": "rdcom",
+    "slug": "rdcom",
+    "url": "https://rdcom.com/"
   },
   {
-      "name": "ReachMail",
-      "url": "https://reachmail.com/"
+    "name": "ReachMail",
+    "slug": "reach-mail",
+    "url": "https://reachmail.com/"
   },
   {
-      "name": "Red Circle Digital",
-      "url": "http://www.redcircledigital.co.uk/"
+    "name": "Red Circle Digital",
+    "slug": "red-circle-digital",
+    "url": "http://www.redcircledigital.co.uk/"
   },
   {
-      "name": "RedCappi",
-      "url": "https://getredcappi.com/"
+    "name": "RedCappi",
+    "slug": "red-cappi",
+    "url": "https://getredcappi.com/"
   },
   {
-      "name": "RedEye",
-      "url": "https://www.redeye.com/"
+    "name": "RedEye",
+    "slug": "red-eye",
+    "url": "https://www.redeye.com/"
   },
   {
-      "name": "Remarkety",
-      "url": "https://www.remarkety.com/"
+    "name": "Remarkety",
+    "slug": "remarkety",
+    "url": "https://www.remarkety.com/"
   },
   {
-      "name": "ResultsMail",
-      "url": "https://www.resultsmail.com/"
+    "name": "ResultsMail",
+    "slug": "results-mail",
+    "url": "https://www.resultsmail.com/"
   },
   {
-      "name": "Rezora",
-      "url": "http://www.rezora.com/"
+    "name": "Rezora",
+    "slug": "rezora",
+    "url": "http://www.rezora.com/"
   },
   {
-      "name": "Rule",
-      "url": "https://www.rule.io/"
+    "name": "Rule",
+    "slug": "rule",
+    "url": "https://www.rule.io/"
   },
   {
-      "name": "SALESmanago",
-      "url": "https://www.salesmanago.com/"
+    "name": "SALESmanago",
+    "slug": "sale-smanago",
+    "url": "https://www.salesmanago.com/"
   },
   {
-      "name": "SARE",
-      "url": "https://sare.pl/"
+    "name": "SARE",
+    "slug": "sare",
+    "url": "https://sare.pl/"
   },
   {
-      "name": "SC-Networks Evalanche",
-      "url": "https://www.sc-networks.com/"
+    "name": "SC-Networks Evalanche",
+    "slug": "sc-networks-evalanche",
+    "url": "https://www.sc-networks.com/"
   },
   {
-      "name": "Sailthru",
-      "url": "https://www.sailthru.com/"
+    "name": "Sailthru",
+    "slug": "sailthru",
+    "url": "https://www.sailthru.com/"
   },
   {
-      "name": "Salesforce Marketing Cloud (ExactTarget)",
-      "url": "https://www.salesforce.com/products/marketing-cloud/overview/"
+    "name": "Salesforce Marketing Cloud (ExactTarget)",
+    "slug": "salesforce-marketing-cloud-exact-target",
+    "url": "https://www.salesforce.com/products/marketing-cloud/overview/"
   },
   {
-      "name": "Selligent Marketing Cloud",
-      "url": "https://www.selligent.com/"
+    "name": "Selligent Marketing Cloud",
+    "slug": "selligent-marketing-cloud",
+    "url": "https://www.selligent.com/"
   },
   {
-      "name": "Send Effect",
-      "url": "https://www.sendeffect.de/"
+    "name": "Send Effect",
+    "slug": "send-effect",
+    "url": "https://www.sendeffect.de/"
   },
   {
-      "name": "SendBlaster",
-      "url": "https://www.sendblaster.com/"
+    "name": "SendBlaster",
+    "slug": "send-blaster",
+    "url": "https://www.sendblaster.com/"
   },
   {
-      "name": "SendCastle",
-      "url": "http://www.sendcastle.com/"
+    "name": "SendCastle",
+    "slug": "send-castle",
+    "url": "http://www.sendcastle.com/"
   },
   {
-      "name": "SendGrid",
-      "url": "https://sendgrid.com/"
+    "name": "SendGrid",
+    "slug": "send-grid",
+    "url": "https://sendgrid.com/"
   },
   {
-      "name": "Sender.net",
-      "url": "https://www.sender.net/"
+    "name": "Sender.net",
+    "slug": "sender-net",
+    "url": "https://www.sender.net/"
   },
   {
-      "name": "Sendicate",
-      "url": "http://www.sendicate.net/"
+    "name": "Sendicate",
+    "slug": "sendicate",
+    "url": "http://www.sendicate.net/"
   },
   {
-      "name": "SendinBlue",
-      "url": "https://www.sendinblue.com/"
+    "name": "SendinBlue",
+    "slug": "sendin-blue",
+    "url": "https://www.sendinblue.com/"
   },
   {
-      "name": "Sendloop",
-      "url": "https://sendloop.com/"
+    "name": "Sendloop",
+    "slug": "sendloop",
+    "url": "https://sendloop.com/"
   },
   {
-      "name": "Sendtex",
-      "url": "https://www.sendtex.com/"
+    "name": "Sendtex",
+    "slug": "sendtex",
+    "url": "https://www.sendtex.com/"
   },
   {
-      "name": "Sendwithus",
-      "url": "https://www.dyspatch.io/sendwithus/"
+    "name": "Sendwithus",
+    "slug": "sendwithus",
+    "url": "https://www.dyspatch.io/sendwithus/"
   },
   {
-      "name": "Sendy",
-      "url": "https://sendy.co/"
+    "name": "Sendy",
+    "slug": "sendy",
+    "url": "https://sendy.co/"
   },
   {
-      "name": "SensorPro",
-      "url": "https://sensorpro.net/"
+    "name": "SensorPro",
+    "slug": "sensor-pro",
+    "url": "https://sensorpro.net/"
   },
   {
-      "name": "Sentori",
-      "url": "http://sentoriapp.com/"
+    "name": "Sentori",
+    "slug": "sentori",
+    "url": "http://sentoriapp.com/"
   },
   {
-      "name": "Setrow",
-      "url": "https://www.setrow.com/"
+    "name": "Setrow",
+    "slug": "setrow",
+    "url": "https://www.setrow.com/"
   },
   {
-      "name": "SharpSpring",
-      "url": "https://sharpspring.com/"
+    "name": "SharpSpring",
+    "slug": "sharp-spring",
+    "url": "https://sharpspring.com/"
   },
   {
-      "name": "Sign-up.to",
-      "url": "https://www.signupto.com/"
+    "name": "Sign-up.to",
+    "slug": "sign-up-to",
+    "url": "https://www.signupto.com/"
   },
   {
-      "name": "SimplyCast",
-      "url": "https://www.simplycast.com/"
+    "name": "SimplyCast",
+    "slug": "simply-cast",
+    "url": "https://www.simplycast.com/"
   },
   {
-      "name": "Smaily",
-      "url": "https://smaily.com/"
+    "name": "Smaily",
+    "slug": "smaily",
+    "url": "https://smaily.com/"
   },
   {
-      "name": "SmartFocus",
-      "url": "http://www.smartfocus.com/"
+    "name": "SmartFocus",
+    "slug": "smart-focus",
+    "url": "http://www.smartfocus.com/"
   },
   {
-      "name": "SmarterHQ",
-      "url": "https://smarterhq.com/"
+    "name": "SmarterHQ",
+    "slug": "smarter-hq",
+    "url": "https://smarterhq.com/"
   },
   {
-      "name": "SmartrMail",
-      "url": "https://www.smartrmail.com/"
+    "name": "SmartrMail",
+    "slug": "smartr-mail",
+    "url": "https://www.smartrmail.com/"
   },
   {
-      "name": "SocketLabs",
-      "url": "https://www.socketlabs.com/"
+    "name": "SocketLabs",
+    "slug": "socket-labs",
+    "url": "https://www.socketlabs.com/"
   },
   {
-      "name": "SparkPost",
-      "url": "https://www.sparkpost.com/"
+    "name": "SparkPost",
+    "slug": "spark-post",
+    "url": "https://www.sparkpost.com/"
   },
   {
-      "name": "Spently",
-      "url": "https://spently.com/"
+    "name": "Spently",
+    "slug": "spently",
+    "url": "https://spently.com/"
   },
   {
-      "name": "Splio",
-      "url": "https://www.splio.com/"
+    "name": "Splio",
+    "slug": "splio",
+    "url": "https://www.splio.com/"
   },
   {
-      "name": "Spotler (Mailplus)",
-      "url": "https://spotler.com/"
+    "name": "Spotler (Mailplus)",
+    "slug": "spotler-mailplus",
+    "url": "https://spotler.com/"
   },
   {
-      "name": "Squeezymail",
-      "url": "https://www.squeezymail.co.uk/"
+    "name": "Squeezymail",
+    "slug": "squeezymail",
+    "url": "https://www.squeezymail.co.uk/"
   },
   {
-      "name": "StampReady",
-      "url": "https://www.stampready.net/"
+    "name": "StampReady",
+    "slug": "stamp-ready",
+    "url": "https://www.stampready.net/"
   },
   {
-      "name": "StreamSend",
-      "url": "https://www.streamsend.com/"
+    "name": "StreamSend",
+    "slug": "stream-send",
+    "url": "https://www.streamsend.com/"
   },
   {
-      "name": "Striata eMarketing",
-      "url": "https://www.striata.com/"
+    "name": "Striata eMarketing",
+    "slug": "striata-e-marketing",
+    "url": "https://www.striata.com/"
   },
   {
-      "name": "SubscriberMail",
-      "url": "http://www.subscribermail.com/"
+    "name": "SubscriberMail",
+    "slug": "subscriber-mail",
+    "url": "http://www.subscribermail.com/"
   },
   {
-      "name": "Swiftpage",
-      "url": "https://www.swiftpage.com/"
+    "name": "Swiftpage",
+    "slug": "swiftpage",
+    "url": "https://www.swiftpage.com/"
   },
   {
-      "name": "Taguchi",
-      "url": "http://taguchi.com.au/"
+    "name": "Taguchi",
+    "slug": "taguchi",
+    "url": "http://taguchi.com.au/"
   },
   {
-      "name": "TailoredMail",
-      "url": "https://e.tailoredmail.com/"
+    "name": "TailoredMail",
+    "slug": "tailored-mail",
+    "url": "https://e.tailoredmail.com/"
   },
   {
-      "name": "TargetSend",
-      "url": "https://www.targetsend.com/"
+    "name": "TargetSend",
+    "slug": "target-send",
+    "url": "https://www.targetsend.com/"
   },
   {
-      "name": "Teenvio",
-      "url": "https://www.teenvio.com/"
+    "name": "Teenvio",
+    "slug": "teenvio",
+    "url": "https://www.teenvio.com/"
   },
   {
-      "name": "Ternair",
-      "url": "https://www.ternair.com/en/"
+    "name": "Ternair",
+    "slug": "ternair",
+    "url": "https://www.ternair.com/en/"
   },
   {
-      "name": "TotalSend",
-      "url": "https://www.totalsend.com/"
+    "name": "TotalSend",
+    "slug": "total-send",
+    "url": "https://www.totalsend.com/"
   },
   {
-      "name": "Traction Digital",
-      "url": "https://tractiondigital.com/"
+    "name": "Traction Digital",
+    "slug": "traction-digital",
+    "url": "https://tractiondigital.com/"
   },
   {
-      "name": "TriggMine",
-      "url": "http://www.triggmine.com/"
+    "name": "TriggMine",
+    "slug": "trigg-mine",
+    "url": "http://www.triggmine.com/"
   },
   {
-      "name": "Tripolis",
-      "url": "https://www.tripolis.com/"
+    "name": "Tripolis",
+    "slug": "tripolis",
+    "url": "https://www.tripolis.com/"
   },
   {
-      "name": "VOXmail",
-      "url": "https://www.voxmail.it/"
+    "name": "VOXmail",
+    "slug": "vo-xmail",
+    "url": "https://www.voxmail.it/"
   },
   {
-      "name": "Venntive",
-      "url": "https://venntive.com/"
+    "name": "Venntive",
+    "slug": "venntive",
+    "url": "https://venntive.com/"
   },
   {
-      "name": "Vero",
-      "url": "https://www.getvero.com/"
+    "name": "Vero",
+    "slug": "vero",
+    "url": "https://www.getvero.com/"
   },
   {
-      "name": "VerticalResponse",
-      "url": "https://www.verticalresponse.com/"
+    "name": "VerticalResponse",
+    "slug": "vertical-response",
+    "url": "https://www.verticalresponse.com/"
   },
   {
-      "name": "VerveMail",
-      "url": "http://vervemail.com/"
+    "name": "VerveMail",
+    "slug": "verve-mail",
+    "url": "http://vervemail.com/"
   },
   {
-      "name": "Vidi Emi",
-      "url": "http://www.vidiemi.com/"
+    "name": "Vidi Emi",
+    "slug": "vidi-emi",
+    "url": "http://www.vidiemi.com/"
   },
   {
-      "name": "Vision6",
-      "url": "https://www.vision6.com.au/"
+    "name": "Vision6",
+    "slug": "vision6",
+    "url": "https://www.vision6.com.au/"
   },
   {
-      "name": "Webpower",
-      "url": "https://webpower-group.com/"
+    "name": "Webpower",
+    "slug": "webpower",
+    "url": "https://webpower-group.com/"
   },
   {
-      "name": "WhatCounts",
-      "url": "https://www.whatcounts.com/"
+    "name": "WhatCounts",
+    "slug": "what-counts",
+    "url": "https://www.whatcounts.com/"
   },
   {
-      "name": "White Image",
-      "url": "http://www.whiteimage.net/"
+    "name": "White Image",
+    "slug": "white-image",
+    "url": "http://www.whiteimage.net/"
   },
   {
-      "name": "Wix ShoutOut",
-      "url": "https://www.wix.com/shoutout/email-marketing"
+    "name": "Wix ShoutOut",
+    "slug": "wix-shout-out",
+    "url": "https://www.wix.com/shoutout/email-marketing"
   },
   {
-      "name": "XQueue",
-      "url": "https://www.xqueue.de/"
+    "name": "XQueue",
+    "slug": "x-queue",
+    "url": "https://www.xqueue.de/"
   },
   {
-      "name": "Yes Marketing",
-      "url": "https://www.yesmarketing.com/"
+    "name": "Yes Marketing",
+    "slug": "yes-marketing",
+    "url": "https://www.yesmarketing.com/"
   },
   {
-      "name": "Zeta Global",
-      "url": "https://zetaglobal.com/"
+    "name": "Zeta Global",
+    "slug": "zeta-global",
+    "url": "https://zetaglobal.com/"
   },
   {
-      "name": "Zoho Campaigns",
-      "url": "https://www.zoho.com/campaigns/"
+    "name": "Zoho Campaigns",
+    "slug": "zoho-campaigns",
+    "url": "https://www.zoho.com/campaigns/"
   }
 ]
