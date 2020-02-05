@@ -205,6 +205,11 @@
     "url": "https://www.circulator.com/"
   },
   {
+    "name": "Clang",
+    "slug": "clang",
+    "url": "https://www.e-village.com/clang"
+  },
+  {
     "name": "Clever Elements",
     "slug": "clever-elements",
     "url": "https://www.cleverelements.com/"
@@ -328,11 +333,6 @@
     "name": "e-shot",
     "slug": "e-shot",
     "url": "https://www.e-shot.net/"
-  },
-  {
-    "name": "e-Village",
-    "slug": "e-village",
-    "url": "https://www.e-village.nl/"
   },
   {
     "name": "eBooster",
